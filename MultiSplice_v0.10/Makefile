@@ -1,4 +1,4 @@
-all: SeparateChrFromGTF SeparateGeneFromGTF SeparateChrFromSAM fragment Estimate process MultiSplice
+all: SeparateChrFromGTF SeparateGeneFromGTF SeparateChrFromSAM fragment Estimate MultiSplice
 
 OPTFLAGS = -O3
 
@@ -22,9 +22,7 @@ fragment:
 
 Estimate:
 	g++ $(CFLAGS) -o bin/Estimate src/Estimate.cpp 2>log
-
-process:
-	g++ $(CFLAGS) -o bin/process src/MergeOverlapGTF.cpp 2>log
+	
 
 MultiSplice:
 	g++ $(CFLAGS) -o MultiSplice src/MultiSplice.cpp 2>log
