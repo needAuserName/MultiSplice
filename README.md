@@ -57,7 +57,7 @@ To compile MultiSplice, simply run
    
     make
 
-To install, simply put the rsem directory in your environment's PATH
+To install, simply put the MultiSplice directory in your environment's PATH
 variable.
 
 ### Prerequisites
