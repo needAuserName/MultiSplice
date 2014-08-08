@@ -8,7 +8,7 @@ All rights reserved.
 
 The University of Kentucky and the University of North Carolina at
 Chapel Hill (“UKY/UNC”) and the developers (“Developer”) of UKY/UNC 
-Software MapSplice (“Software”) give recipient (“Recipient”) and 
+Software MultiSplice (“Software”) give recipient (“Recipient”) and 
 Recipient’s Institution (“Institution”) permission to use, copy, and
 modify the software in source and binary forms, with or without 
 modification for non-profit research purposes only provided that 
@@ -35,7 +35,7 @@ of UKY/UNC.
 the Software and Modifications, if any, in their research.  The
 Developers and UKY/UNC are permitted to use any information Recipient
 provides in making changes to the Software. All feedback, bug reports
-and technical questions shall be sent to: mapsplice@netlab.uky.edu
+and technical questions shall be sent to: yan@netlab.uky.edu
 
 6) Recipient acknowledges that the Developers, UKY/UNC and its licensees
 may develop modifications to Software that may be substantially
